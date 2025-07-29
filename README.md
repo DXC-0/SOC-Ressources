@@ -110,9 +110,9 @@
 | Website | Description |
 | --- | --- |
 | [awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) | Course and documentation collection about reverse |
+| [Z0fCourse](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) | X64 reverse course, beginner to intermediate |
 | [Flare-VM](https://github.com/mandiant/flare-vm) | Maintain a reverse engineering environment on a virtual machine with Windows |
 | [Tsuguri](https://tsurugi-linux.org/) | The sharpest weapon in your DFIR arsenal  |
-
 
 </br>
 
