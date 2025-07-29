@@ -105,7 +105,7 @@
 </br>
 
 
-### :computer: :hammer: Reverse Engineering / Forensic
+### :computer: :hammer: Reverse Engineering
 
 | Website | Description |
 | --- | --- |
