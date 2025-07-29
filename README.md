@@ -113,6 +113,10 @@
 | [Z0fCourse](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) | X64 reverse course, beginner to intermediate |
 | [Flare-VM](https://github.com/mandiant/flare-vm) | Maintain a reverse engineering environment on a virtual machine with Windows |
 | [Tsuguri](https://tsurugi-linux.org/) | The sharpest weapon in your DFIR arsenal  |
+| [UnpackMe](https://www.unpac.me/) | UNPACME is an automated malware unpacking service. Submissions to UNPACME are analyzed using a set of custom unpacking and artifact extraction processes |
+| [pestudio](https://www.winitor.com/download) | PEStudio is a static analysis tool for Windows PE files that helps identify suspicious indicators, malware traits, and anomalies without executing the file |
+| [Retdec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM |
+
 
 </br>
 
