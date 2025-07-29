@@ -116,6 +116,7 @@
 | [UnpackMe](https://www.unpac.me/) | UNPACME is an automated malware unpacking service. Submissions to UNPACME are analyzed using a set of custom unpacking and artifact extraction processes |
 | [pestudio](https://www.winitor.com/download) | PEStudio is a static analysis tool for Windows PE files that helps identify suspicious indicators, malware traits, and anomalies without executing the file |
 | [Retdec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM |
+| [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 
 
 </br>
