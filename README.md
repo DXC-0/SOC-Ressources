@@ -89,6 +89,7 @@
 |[threathuntingspl](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) | This is a repository to store Splunk code (SPL) and prototypes useful for building rules (correlation searches) and queries to find and hunt for malicious activity. |
 |[ThreatHuntingWithSplunk](https://github.com/west-wind/Threat-Hunting-With-Splunk?tab=readme-ov-file) | Awesome Splunk SPL queries that can be used to detect the latest vulnerability exploitation attempts |
 |[IBM AQL](https://www.ibm.com/docs/en/qradar-on-cloud?topic=structure-sample-aql-queries) | IBM Documentation for AQL queries |
+|[QRadar-AQL-Queries](https://github.com/System-CTL/QRadar-AQL-Queries) | A collection of powerful AQL (Ariel Query Language) queries for threat hunting, incident investigation, and security monitoring in IBM QRadar.
 |[Explain Shell](https://explainshell.com/?trk=article-ssr-frontend-pulse_little-text-block) | Don't understand a command? Type it here | 
 |[zzzcodeai](https://zzzcode.ai/code-explain) | Don't understand code ? Specify the language and paste the code here |
 |[KQL for network OPS](https://kqlquery.com/posts/kql-for-network-operations/) | If you query data that contains IP addresses this blog is something for you!  | 
