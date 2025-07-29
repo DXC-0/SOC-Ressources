@@ -74,6 +74,7 @@
 </br>
 
 
+
 ### :detective: SOC Analyst - Hunting ressources
 
 | Website | Description |
@@ -102,6 +103,19 @@
 | [SigmaDoc](https://sigmahq.io/docs/basics/rules.html) | Documentation for Sigma detections rules |
 
 </br>
+
+
+### :hammer: :computer: Reverse Engineering
+
+| Website | Description |
+| --- | --- |
+| [awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) | Course and documentation collection about reverse |
+| [Flare-VM](https://github.com/mandiant/flare-vm) | Maintain a reverse engineering environment on a virtual machine with Windows |
+| [Tsuguri](https://tsurugi-linux.org/) | The sharpest weapon in your DFIR arsenal  |
+
+
+</br>
+
 
 ### :globe_with_meridians: Threat Maps 
 
