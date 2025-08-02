@@ -46,6 +46,7 @@
 | [VirusTotal](https://virustotal.com) | Analyze a hash, file or URL and see if it has been reported by cyber companies |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | Another sandbox, analyze the files and see if they pose a risk |
 | [DocGuard](https://app.docguard.io/) | A document analyzer, malicious VB macros, hidden scripts... |
+| [IBM Xforce](https://exchange.xforce.ibmcloud.com/) | Research, Collaborate and Act on threat intelligence |
 | [MxToolBox](https://mxtoolbox.com/) | Check the reputation of an email domain and its records |
 | [TreatMining](https://www.threatminer.org/) | Take informations about IOC |
 | [CyberChief](https://cyberchef.org/) | CyberChef is a web app that allows you to create and run recipes of data manipulation operations. You can use it to encrypt, decode, compress, analyze and transform data in various ways |
