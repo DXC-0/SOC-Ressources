@@ -28,6 +28,7 @@
 | [Fortinet](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks) | Top 20 Most Common Types of Cybersecurity Attacks  | 
 | [CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/) | 10 Most Common Types of Cyber Attacks | 
 | [MalwareByteLabs](https://www.malwarebytes.com/blog/threat-intelligence/2024/01/ransomware-review-january-2024) | Ransomware review 2024 |
+| [ForiguardCVE](https://www.fortiguard.com/search) | 
 
 </br>
 
@@ -49,6 +50,7 @@
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | Another sandbox, analyze the files and see if they pose a risk |
 | [DocGuard](https://app.docguard.io/) | A document analyzer, malicious VB macros, hidden scripts... |
 | [IBM Xforce](https://exchange.xforce.ibmcloud.com/) | Research, Collaborate and Act on threat intelligence |
+| [CiscoTalos](https://talosintelligence.com/) | Check domain, IP and hash reputation |
 | [MxToolBox](https://mxtoolbox.com/) | Check the reputation of an email domain and its records |
 | [TreatMining](https://www.threatminer.org/) | Take informations about IOC |
 | [CyberChief](https://cyberchef.org/) | CyberChef is a web app that allows you to create and run recipes of data manipulation operations. You can use it to encrypt, decode, compress, analyze and transform data in various ways |
