@@ -58,6 +58,7 @@
 | [PulseDive](https://pulsedive.com/) | Ultimate centralized CTI tool, take informations about malware, IP, hash, Mitre tags |
 | [Censys](https://search.censys.io/) | Censys helps you identify exposures that attackers are likely to exploit |
 | [DNSDumpster](https://dnsdumpster.com/) | Ultra powerfull DNS domain recon tool |
+| [Kaspersky CTI](https://opentip.kaspersky.com/?tab=upload) | Check file, hash and domain reputation |
 
 </br>
 
