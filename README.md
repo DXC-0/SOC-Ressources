@@ -21,6 +21,9 @@
 - [News Websites](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#newspaper-news-websites)
 - [Other Awesome Githubs !!!](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#eye-other-awesome-githubs-)
 
+</br>
+---
+
 
 ### :cop: Cybercrime Monitoring
 
