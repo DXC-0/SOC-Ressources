@@ -118,6 +118,7 @@
 | [Retdec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM |
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | [Cuckoo](https://github.com/cuckoosandbox) | Leading open source dynamic malware analysis system |
+| [de4js](https://lelinhtinh.github.io/de4js/) | JavaScript Deobfuscator and Unpacker |
 
 
 </br>
