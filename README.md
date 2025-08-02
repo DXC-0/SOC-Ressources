@@ -59,6 +59,9 @@
 | [Censys](https://search.censys.io/) | Censys helps you identify exposures that attackers are likely to exploit |
 | [DNSDumpster](https://dnsdumpster.com/) | Ultra powerfull DNS domain recon tool |
 | [Kaspersky CTI](https://opentip.kaspersky.com/?tab=upload) | Check file, hash and domain reputation |
+| [de4js](https://lelinhtinh.github.io/de4js/) | JavaScript Deobfuscator and Unpacker |
+| [MD5Center](https://md5.gromweb.com/) | Reverse MD5 Hash (with no salt, for other use john or hashcat) |
+| [SHA1Center](https://sha1.gromweb.com/) | Similar website, but for Sha1 reverse |
 
 </br>
 
@@ -121,10 +124,6 @@
 | [Retdec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM |
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | [Cuckoo](https://github.com/cuckoosandbox) | Leading open source dynamic malware analysis system |
-| [de4js](https://lelinhtinh.github.io/de4js/) | JavaScript Deobfuscator and Unpacker |
-| [MD5Center](https://md5.gromweb.com/) | Reverse MD5 Hash (with no salt, for other use john or hashcat) |
-| [SHA1Center](https://sha1.gromweb.com/) | Similar website, but for Sha1 reverse |
-
 
 </br>
 
