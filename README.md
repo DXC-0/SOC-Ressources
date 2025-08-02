@@ -12,14 +12,14 @@
 
 ## Summary
 - [Cybercrime Monitoring](https://github.com/DXC-0/SOC-Ressources/blob/main/README.md#cop-cybercrime-monitoring)
-- [SOC Intelligence](#soc-intelligence)
-- [Malware Sample](#malware-sample)
-- [SOC Analyst - Hunting ressources](#soc-analyst---hunting-ressources)
-- [Reverse Engineering](#reverse-engineering)
-- [Threat Maps](#threat-maps)
-- [Course / documentation](#course--documentation)
-- [News Websites](#news-websites)
-- [Other Awesome Githubs !!!](#other-awesome-githubs-)
+- [Intelligence Tools](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#mag_right-soc-intelligence-online-tools)
+- [Malware Samples](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#mag_right-soc-intelligence-online-tools)
+- [Hunting ressources](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#detective-soc-analyst---hunting-ressources)
+- [Reverse Engineering](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#computer-hammer-reverse-engineering)
+- [Threat Maps](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#globe_with_meridians-threat-maps)
+- [Course / documentation](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#memo-course--documentation)
+- [News Websites](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#newspaper-news-websites)
+- [Other Awesome Githubs !!!](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#eye-other-awesome-githubs-)
 
 
 ### :cop: Cybercrime Monitoring
