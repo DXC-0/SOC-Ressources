@@ -42,6 +42,7 @@
 | [UrlScan](https://urlscan.io/) | Scan a site's URL to find out if it is linked to suspicious activities |
 | [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | URL scanner from the world's leading security company |
 | [JoeSandbow](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
+| [ThreaZone](https://app.threat.zone/scan) | Open sandbox for malicious file analysis |
 | [Yomi](https://yomi.yoroi.company/upload) | A performance sandbox to analyze your malware |
 | [VirusTotal](https://virustotal.com) | Analyze a hash, file or URL and see if it has been reported by cyber companies |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | Another sandbox, analyze the files and see if they pose a risk |
