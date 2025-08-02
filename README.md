@@ -28,7 +28,7 @@
 | [Fortinet](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks) | Top 20 Most Common Types of Cybersecurity Attacks  | 
 | [CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/) | 10 Most Common Types of Cyber Attacks | 
 | [MalwareByteLabs](https://www.malwarebytes.com/blog/threat-intelligence/2024/01/ransomware-review-january-2024) | Ransomware review 2024 |
-| [ForiguardCVE](https://www.fortiguard.com/search) | 
+| [ForiguardCVE](https://www.fortiguard.com/search) | Check latest CVEs with fortinet |
 
 </br>
 
