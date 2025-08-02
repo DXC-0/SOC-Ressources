@@ -11,7 +11,7 @@
 </br>
 
 ## Summary
-- [Cybercrime Monitoring](https://github.com/DXC-0/SOC-Ressources/blob/main/README.md#cop-cybercrime-monitoring)
+- [Cybercrime Monitoring](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#cop-cybercrime-monitoring)
 - [Intelligence Tools](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#mag_right-soc-intelligence-online-tools)
 - [Malware Samples](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#mag_right-soc-intelligence-online-tools)
 - [Hunting ressources](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#detective-soc-analyst---hunting-ressources)
