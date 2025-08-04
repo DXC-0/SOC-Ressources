@@ -179,6 +179,7 @@
 | [Cisco SOC](https://skillsforall.com/career-path/cybersecurity?courseLang=en-US) | Free Course Junior SOC Analyst from Skill4All |
 | [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) | CompTIA Cybersecurity Analyst (CySA+) is a certification for cyber professionals tasked with incident detection, prevention and response through continuous security monitoring. | 
 | [CompTIA Security+](https://www.comptia.org/certifications/security) | CompTIA Security+ is a global certification that validates the baseline skills necessary to perform core security functions and pursue an IT security career. | 
+| [LinuxHandsOn](https://github.com/N0vachr0n0/Hands-on-Linux-course) | Awesome repository, free course to really understand Linux and his components | 
 
 
 </br>
@@ -218,5 +219,5 @@
 | [Certification-Training/CEHv12](https://github.com/Certification-Training/CEHv12) | Study notes for the EC-Council Certified Ethical Hacker CEH v12 exam by a3cipher |
 | [FreeCybersecurityEbooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) | Collection of free cybersecurity-related e-books available on KnowledgeHub |
 | [awesome-list](https://github.com/mthcht/awesome-lists) | Collection of detection lists, feeds and ioc - SIEM and Firewalls |
-
+| [LinuxHandsOn](https://github.com/N0vachr0n0/Hands-on-Linux-course) | Awesome repository, free course to really understand Linux and his components | 
 
