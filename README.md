@@ -32,7 +32,7 @@
 | --- | --- |
 | [APT_CyberCriminal](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/) | This is a repository for various publicly-available documents and notes related to APT, sorted by year. |
 | [Mitre Attack](https://attack.mitre.org/campaigns/) | APT group and campaign list |
-| [Ransomwatch](https://ransomwatch.telemetry.ltd/#/recentposts) | Track Ransomware and leak activity over the web |
+| [Ransomware.Live](https://www.ransomware.live/) | Track Ransomware and leak activity over the web |
 | [FBI Internet Crime Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf) | As the cyber threat continues to evolve, the FBI remains appreciative of those who report cyber incidents to IC3. Information reported to the FBI helps advance our investigations. |
 | [FBI Fraud Report](https://www.ic3.gov/AnnualReport/Reports/2023_IC3ElderFraudReport.pdf) | The Internet Crime Complaint Center, or IC3, is the Nation's central hub for reporting cyber crime. It is run by the FBI, the lead federal agency for investigating cyber crime. | 
 | [CISA Top Vulnerabilites](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a) | For the benefit of the cybersecurity community and network defenders—and to help every organization better manage vulnerabilities |
