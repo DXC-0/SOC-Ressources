@@ -124,8 +124,9 @@
 | [KQL](https://github.com/LearningKijo/KQL) | Therefore, in this repository on KQL-XDR-Hunting, I will be sharing 'out-of-the-box' KQL queries based on feedback, security blogs, and new cyber attacks to assist you in your threat hunting |
 | [Advanced Hunting KQL](https://github.com/lawndoc/AdvancedHuntingQueries) | Collection of Microsoft 365 Advanced Hunting Queries written in Kusto Query Language (KQL) |
 | [Sekoia-io ressources](https://github.com/SEKOIA-IO/Community) | This repository contains IOCs, cyber threat intelligence materials, hunting queries, detection rules, playbooks and much more to help you make the most of the capabilities of SEKOIA.IO XDR |
+| [Sekoia-io Hunting](https://docs.sekoia.io/xdr/features/investigate/sol_overview/) | Sekoia hunting methodology with SOL |
 | [CrowdStrike community](https://github.com/CrowdStrike/logscale-community-content/wiki/FLTR-Hunting-and-Investigations) | This hunting guide teaches you how to hunt for adversaries, suspicious activities, suspicious processes, and vulnerabilities using Falcon telemetry in Falcon Long-Term Repository (FLTR) |
-| [FortiSIEM](https://help.fortinet.com/fsiem/6-1-0/Online-Help/HTML5_Help/FortiSIEM_Operations.htm) | Documentation for FortiSOAR and FortiSIEM investigations |
+| [FortiSIEM](https://filestore.fortinet.com/docs.fortinet.com/fsiem/Public_Resource_Access/7_4_0/rules/rule_descriptions.htm) | Documentation for FortiSOAR and FortiSIEM investigations and builtin rules |
 | [SigmaDoc](https://sigmahq.io/docs/basics/rules.html) | Documentation for Sigma detections rules |
 
 </br>
