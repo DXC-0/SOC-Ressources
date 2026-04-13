@@ -143,7 +143,8 @@
 | [pestudio](https://www.winitor.com/download) | PEStudio is a static analysis tool for Windows PE files that helps identify suspicious indicators, malware traits, and anomalies without executing the file |
 | [Retdec](https://github.com/avast/retdec) | Retargetable machine-code decompiler based on LLVM |
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
-| [Cuckoo](https://github.com/cuckoosandbox) | Leading open source dynamic malware analysis system |
+| [Cuckoo3](https://github.com/cuckoosandbox) | Cuckoo3 is a Python 3 open source automated malware analysis system |
+| [CAPE](https://github.com/kevoreilly/CAPEv2) | Malware Configuration And Payload Extraction |
 
 </br>
 
