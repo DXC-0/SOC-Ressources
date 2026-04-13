@@ -145,6 +145,7 @@
 | [Ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
 | [Cuckoo3](https://github.com/cuckoosandbox) | Cuckoo3 is a Python 3 open source automated malware analysis system |
 | [CAPE](https://github.com/kevoreilly/CAPEv2) | Malware Configuration And Payload Extraction |
+| [FAME](https://github.com/certsocietegenerale/fame) | FAME Automates Malware Evaluation by SG CERT |
 
 </br>
 
