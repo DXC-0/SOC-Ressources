@@ -30,17 +30,17 @@
 
 | Website | Description |
 | --- | --- |
-| [APT_CyberCriminal](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/tree/master/2023/2023.01.09.Emotet_return) | This is a repository for various publicly-available documents and notes related to APT, sorted by year. |
+| [APT_CyberCriminal](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/) | This is a repository for various publicly-available documents and notes related to APT, sorted by year. |
 | [Mitre Attack](https://attack.mitre.org/campaigns/) | APT group and campaign list |
 | [Ransomwatch](https://ransomwatch.telemetry.ltd/#/recentposts) | Track Ransomware and leak activity over the web |
-| [FBI Internet Crime Report](https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3Report.pdf) | As the cyber threat continues to evolve, the FBI remains appreciative of those who report cyber incidents to IC3. Information reported to the FBI helps advance our investigations. |
-| [FBI Fraud Report](https://www.ic3.gov/Media/PDF/AnnualReport/2022_IC3ElderFraudReport.pdf) | The Internet Crime Complaint Center, or IC3, is the Nation's central hub for reporting cyber crime. It is run by the FBI, the lead federal agency for investigating cyber crime. | 
+| [FBI Internet Crime Report](https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf) | As the cyber threat continues to evolve, the FBI remains appreciative of those who report cyber incidents to IC3. Information reported to the FBI helps advance our investigations. |
+| [FBI Fraud Report](https://www.ic3.gov/AnnualReport/Reports/2023_IC3ElderFraudReport.pdf) | The Internet Crime Complaint Center, or IC3, is the Nation's central hub for reporting cyber crime. It is run by the FBI, the lead federal agency for investigating cyber crime. | 
 | [CISA Top Vulnerabilites](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a) | For the benefit of the cybersecurity community and network defenders—and to help every organization better manage vulnerabilities |
-| [Sophos Ransomware report](https://assets.sophos.com/X24WTUEQ/at/c949g7693gsnjh9rb9gr8/sophos-state-of-ransomware-2023-wp.pdf) | report on ransomware attacks, payments, and recovery costs from Sophos |
-| [SpyCloud Exposure report](https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-report-2023-identity-exposure-report.pdf) | Annual Identity Exposure Report unveils the latest cybercrime research, including data breach, malware & identity threat trends |
-| [NIST Cybersecurity](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-225.pdf) | NIST collaborated with software developers, service providers, and users to develop secure software development guidance that is now mandatory for federal agency softwar e acquisition and use|
-| [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/2024/index.html) | This blog focuses on network traffic related to malware infections, mostly from Windows-based malware. |
-| [ANSSI Cyber Threat](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf) |  the Agency reports a steadily rising cyber threat level, against a backdrop of new geopolitical tensions and international events being held in France |
+| [Sophos Ransomware report](https://assets.sophos.com/X24WTUEQ/at/9brgj5n44hqvgsp5f5bqcps/sophos-state-of-ransomware-2025.pdf) | report on ransomware attacks, payments, and recovery costs from Sophos |
+| [SpyCloud Exposure report](https://engage.spycloud.com/rs/713-WIP-737/images/spycloud-2025-identity-exposure-report.pdf) | Annual Identity Exposure Report unveils the latest cybercrime research, including data breach, malware & identity threat trends |
+| [NIST Cybersecurity](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-236.pdf) | NIST collaborated with software developers, service providers, and users to develop secure software development guidance that is now mandatory for federal agency softwar e acquisition and use|
+| [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/2025/index.html) | This blog focuses on network traffic related to malware infections, mostly from Windows-based malware. |
+| [ANSSI Cyber Threat](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2025-CTI-002.pdf) |  the Agency reports a steadily rising cyber threat level, against a backdrop of new geopolitical tensions and international events being held in France |
 | [Fortinet](https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks) | Top 20 Most Common Types of Cybersecurity Attacks  | 
 | [CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/) | 10 Most Common Types of Cyber Attacks | 
 | [MalwareByteLabs](https://www.malwarebytes.com/blog/threat-intelligence/2024/01/ransomware-review-january-2024) | Ransomware review 2024 |
