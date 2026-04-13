@@ -168,7 +168,7 @@
 | [TryHackMe](https://tryhackme.com/path/outline/soclevel1) | In the Junior Security Analyst role, you will be a Triage Specialist. You will spend a significant portion of your time triaging or monitoring the event logs and alerts. |
 | [Coursera](https://www.coursera.org/courses?query=cybersecurity) | Coursera offers SOC analyst courses from IBM, Microsoft, PaloAlto and many other major players in the Cyber world | 
 | [Let's defends](https://www.letsdefend.io/) |  Develop the skills and experience to land a better job in cybersecurity |
-| [ICSI](https://icsiglobal.com/) | SOC Analyst courses, Network Defense, Penstesting, Crest Approved. |
+| [DefensityOne](https://defensityone.com/) | SOC Analyst courses, Network Defense, Penstesting, Crest Approved. |
 | [ECC SOC-A](https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/) | Engineered for current and aspiring Tier I and Tier II SOC analysts to achieve proficiency in performing entry-level and intermediate-level operations |
 | [Offsec-soc200](https://www.offsec.com/courses/soc-200/) | Learn the foundations of cybersecurity defense with Foundational Security Operations and Defensive Analysis (SOC-200) | 
 | [SecurityBlueTeam](https://www.securityblue.team/) |  BTL1 has been trusted around the world to train thousands of technical defenders in governments, CERTs, law enforcement, military units, MSSPs, financial institutions, critical national infrastructure, and more. |
