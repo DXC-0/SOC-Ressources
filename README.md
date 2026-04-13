@@ -54,13 +54,14 @@
 | Website | Description |
 | --- | --- |
 | [AbuseIP](https://www.abuseipdb.com/) | Check IP reputation online and through public feeds |
+| [ThreatFox](https://threatfox.abuse.ch/browse/) | Check domain, IP with IOC database |
 | [CriminalIP](https://search.criminalip.io/en) | First IP Malware Activity Checker Site |
 | [Shodan](https://www.shodan.io/) | Analyse hostname and IP and find mode |
 | [ViewDNS](https://viewdns.info/) | IP lookup, location, MX, DNS history ... |
 | [Netcraft](https://www.netcraft.com/tools/) | Historical analyzer, find infos about websites and dns |
 | [UrlScan](https://urlscan.io/) | Scan a site's URL to find out if it is linked to suspicious activities |
 | [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | URL scanner from the world's leading security company |
-| [JoeSandbow](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
+| [JoeSandbox](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
 | [ThreaZone](https://app.threat.zone/) | Open sandbox for malicious file analysis |
 | [Yomi](https://yomi.yoroi.company/upload) | A performance sandbox to analyze your malware |
 | [VirusTotal](https://virustotal.com) | Analyze a hash, file or URL and see if it has been reported by cyber companies |
@@ -95,6 +96,7 @@
 | [Malware-Bazard](MalwareBazaar) | Collect samples for your tests from the most famous database in the world |
 | [Malware-Sample](https://github.com/jstrosch/malware-samples) | Another repository, offering up-to-date samples |
 | [TheZoo](https://github.com/ytisf/theZoo) | New repo, active, offering malwares samples |
+| [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) | Malware description reference repository |
 
 
 </br>
