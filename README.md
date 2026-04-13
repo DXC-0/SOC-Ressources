@@ -1,14 +1,6 @@
 # SOC-RESSOURCES
 
->Are you starting a career as a SOC analyst? Or do you simply want to get a list of the most used tools in the cyber world? This repository is made for you, whether you are a level 1 or in a more advanced branch, you will find all the resources to make your work easier. Remember, the priority is to properly detect and identify the threat, so use everything you have at hand and avoid the crisis !
-
-</br>
-
-[![text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png](https://i.postimg.cc/prmRnnFX/text2photo-aa5ac538f855cc43ff01802f7ea3e1b4.png)](https://postimg.cc/YLBJ50RJ)
-
->In this repository, several parts, one for monitoring, the list of tools to qualify malicious activity and finally, a list of queries to carry out your threat hunting properly. I've also added news sites and courses to train you between cyber attacks, when you have time.
-
-</br>
+>Are you starting a career as a SOC analyst? Or do you simply want to get a list of the most used tools in the cyber world? This repository is made for you, whether you are a level 1 or in a more advanced branch, you will find all the resources to make your work easier. Remember, the priority is to properly detect and identify the threat, so use everything you have at hand and avoid the crisis ! In this repository, several parts, one for monitoring, the list of tools to qualify malicious activity and finally, a list of queries to carry out your threat hunting properly. I've also added news sites and courses to train you between cyber attacks, when you have time.
 
 ## Summary
 - [Cybercrime Monitoring](https://github.com/DXC-0/SOC-Ressources?tab=readme-ov-file#cop-cybercrime-monitoring) :cop:
@@ -135,6 +127,7 @@
 | [CrowdStrike community](https://github.com/CrowdStrike/logscale-community-content/wiki/FLTR-Hunting-and-Investigations) | This hunting guide teaches you how to hunt for adversaries, suspicious activities, suspicious processes, and vulnerabilities using Falcon telemetry in Falcon Long-Term Repository (FLTR) |
 | [FortiSIEM](https://filestore.fortinet.com/docs.fortinet.com/fsiem/Public_Resource_Access/7_4_0/rules/rule_descriptions.htm) | Documentation for FortiSOAR and FortiSIEM investigations and builtin rules |
 | [SigmaDoc](https://sigmahq.io/docs/basics/rules.html) | Documentation for Sigma detections rules |
+| [Elastic](https://www.elastic.co/docs/solutions/security/esql-for-security/esql-threat-hunting-tutorial) | Elastic/Kibana Threat Hunting EQL examples |
 
 </br>
 
