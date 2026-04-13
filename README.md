@@ -57,9 +57,11 @@
 | [ThreatFox](https://threatfox.abuse.ch/browse/) | Check domain, IP with IOC database |
 | [CriminalIP](https://search.criminalip.io/en) | First IP Malware Activity Checker Site |
 | [Shodan](https://www.shodan.io/) | Analyse hostname and IP and find mode |
+| [IPinfo.io](https://ipinfo.io/) | Provides fast, reliable IP enrichment including ASN, geolocation, hosting type ... |
 | [ViewDNS](https://viewdns.info/) | IP lookup, location, MX, DNS history ... |
 | [Netcraft](https://www.netcraft.com/tools/) | Historical analyzer, find infos about websites and dns |
 | [UrlScan](https://urlscan.io/) | Scan a site's URL to find out if it is linked to suspicious activities |
+| [URLhaus](https://urlhaus.abuse.ch/browse/) | Check URL reputation in the best IOC database |
 | [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | URL scanner from the world's leading security company |
 | [JoeSandbox](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
 | [ThreaZone](https://app.threat.zone/) | Open sandbox for malicious file analysis |
