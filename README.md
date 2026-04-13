@@ -64,10 +64,12 @@
 | [URLhaus](https://urlhaus.abuse.ch/browse/) | Check URL reputation in the best IOC database |
 | [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | URL scanner from the world's leading security company |
 | [JoeSandbox](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
+| [pdfcrowd](https://pdfcrowd.com/inspect-pdf/) | Inspect PDF Files |
 | [ThreaZone](https://app.threat.zone/) | Open sandbox for malicious file analysis |
 | [Yomi](https://yomi.yoroi.company/upload) | A performance sandbox to analyze your malware |
 | [VirusTotal](https://virustotal.com) | Analyze a hash, file or URL and see if it has been reported by cyber companies |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | Another sandbox, analyze the files and see if they pose a risk |
+| [TrID](https://mark0.net/onlinetrid.html) | Obfuscated File Type Identifier | 
 | [DocGuard](https://app.docguard.io/) | A document analyzer, malicious VB macros, hidden scripts... |
 | [IBM Xforce](https://exchange.xforce.ibmcloud.com/) | Research, Collaborate and Act on threat intelligence |
 | [CiscoTalos](https://talosintelligence.com/) | Check domain, IP and hash reputation |
