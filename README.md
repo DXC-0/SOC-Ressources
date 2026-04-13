@@ -54,14 +54,14 @@
 | Website | Description |
 | --- | --- |
 | [AbuseIP](https://www.abuseipdb.com/) | Check IP reputation online and through public feeds |
-| [CriminalIP](https://www.criminalip.io/) | First IP Malware Activity Checker Site |
+| [CriminalIP](https://search.criminalip.io/en) | First IP Malware Activity Checker Site |
 | [Shodan](https://www.shodan.io/) | Analyse hostname and IP and find mode |
 | [ViewDNS](https://viewdns.info/) | IP lookup, location, MX, DNS history ... |
 | [Netcraft](https://www.netcraft.com/tools/) | Historical analyzer, find infos about websites and dns |
 | [UrlScan](https://urlscan.io/) | Scan a site's URL to find out if it is linked to suspicious activities |
 | [PaloAltosURL](https://urlfiltering.paloaltonetworks.com/) | URL scanner from the world's leading security company |
 | [JoeSandbow](https://www.joesandbox.com/) | Analyze your malware samples to observe their behavior |
-| [ThreaZone](https://app.threat.zone/scan) | Open sandbox for malicious file analysis |
+| [ThreaZone](https://app.threat.zone/) | Open sandbox for malicious file analysis |
 | [Yomi](https://yomi.yoroi.company/upload) | A performance sandbox to analyze your malware |
 | [VirusTotal](https://virustotal.com) | Analyze a hash, file or URL and see if it has been reported by cyber companies |
 | [Hybrid Analysis](https://www.hybrid-analysis.com/) | Another sandbox, analyze the files and see if they pose a risk |
